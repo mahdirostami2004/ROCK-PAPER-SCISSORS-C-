@@ -1,0 +1,2 @@
+# ROCK-PAPER-SCISSORS-C-
+a Functional ROCK , PAPER , SCISSORS in C++
